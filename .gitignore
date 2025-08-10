@@ -3,3 +3,4 @@ __pycache__/
 .env
 classified_data/
 temp_files/
+.idea/
