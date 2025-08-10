@@ -8,7 +8,7 @@ def load_mission_data():
 
 def filter_by_status(missions, status): 
     """Filter missions by status"""
-    return [m for m in missions if m["status"] == status]
+    return 0
 
 def count_by_priority(missions): 
     """Count missions by priority level"""
